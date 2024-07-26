@@ -1,4 +1,4 @@
-# ADAX for Angular 
+# ADAX for Angular, a simple test app:
 
 **NB**: [Consult the code and play with the app here: ⚡️](https://stackblitz.com/~/github.com/MirjamElad/ADAX-Angular-Exp_0)
 
